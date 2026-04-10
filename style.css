@@ -1,5 +1,5 @@
 body {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Playwrite IE", cursive;
     margin: 0;
     padding: 0;
     background-color: #f5f7fa;
@@ -24,6 +24,13 @@ h2 {
 h3 {
     color: #e6362d;
     margin-top: 20px;
+}
+h1, h2, h3 {
+font-family: "Playwrite Irelandt";
+}
+body, p {
+
+font-family: "Playwrite Ireland";
 }
 
 /* NAV */
