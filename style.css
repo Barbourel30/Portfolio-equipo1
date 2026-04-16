@@ -59,9 +59,18 @@ nav ul li {
 }
 
 nav ul li a {
-    color: rgb(12, 12, 12);
-    text-decoration: underline;
-    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+/* seccion proyectos (by massi)*/
+#proyectos{
+    background-color: #64c3eb;
+    color:rgb(10, 10, 10);
+    padding: 20px;
+    margin-right: 11px;
+    font-size: 20px;
+    font-family: 'Times New Roman';
 }
 
 /* SECCIONES */
