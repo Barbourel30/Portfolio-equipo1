@@ -42,6 +42,16 @@ nav ul li a {
     text-decoration: none;
 }
 
+/* seccion proyectos (by massi)*/
+#proyectos{
+    background-color: #64c3eb;
+    color:rgb(10, 10, 10);
+    padding: 20px;
+    margin-right: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman'
+}
+
 /* SECCIONES */
 #equipo {
     background-color: #f597a7;
