@@ -1,20 +1,20 @@
 
 * { margin: 0; 
-    padding: 0;
+    padding: 20px;
     box-sizing: border-box;
 }
 
 body {
     font-family: "Playwrite IE", cursive;
     margin: 0;
-    padding: 0;
+    padding: 20px;
     background-color: #f5f5f5;
     text-align: center;
 }
 
 /* HEADER */
 header {
-    background: linear-gradient(135deg, #64c3eb, #ff6b6b);
+    background: linear-gradient(135deg, #64c3eb, #ed7b7b);
     color: rgb(255, 255, 255);
     padding: 30px;
     text-align: center;
